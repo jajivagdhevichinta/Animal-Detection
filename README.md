@@ -10,7 +10,7 @@ Hardware Requirements
 -> 7” HD DISPLAY
 -> HDMI CABLE 
 -> USB CABLE
--> 5V ADAPTER   X2
+-> 5V ADAPTER X 2
 -> SD CARD
 
 Code Demonstration and Explaination:
@@ -55,7 +55,7 @@ Step 6: Run the Object Recognition Code
         With the code file open in the IDE, click on the Run button.
 Step 7: View the Output
         Live feed: A window will open displaying a live feed from the Raspberry Pi Camera.
-        Object detection: The code will detect objects, draw green boxes around them, label them, and provide a confidence rating. Multiple objects will be detected and labeled           individually.
+        Object detection: The code will detect objects, draw green boxes around them, label them, and provide a confidence rating. Multiple objects will be detected and labeled individually.
 
 
 
